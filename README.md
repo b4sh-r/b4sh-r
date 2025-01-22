@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Mehmet!<br><br>I’m a Developer who passionate about creating cool and fun things with code.</br><br>🎓 Education **Istanbul Kültür University** - Associate Degree in Computer Programming</br> <br>🌱 Currently Learning New js libraries, MIS</br><br>🚀 Featured Projects [Sohbet GPT](https://github.com/b4s4r/sohbetgpt.git) Built with Laravel and powered by OpenAI API, this project brings a ChatGPT-like AI to life—because who doesn’t love a chatbot that’s as smart as it is fun?</br><br>📫 Let’s Connect [LinkedIn](www.linkedin.com/in/mehmet-başar-019948258)</br><br><br>
+### Hi, I'm Mehmet!<br><br>I’m a Developer who passionate about creating cool and fun things with code.</br><br>🎓 Education **Istanbul Kültür University** - Associate Degree in Computer Programming</br> <br>🌱 Currently Learning New js libraries, MIS</br><br>🚀 Featured Projects [Sohbet GPT](https://github.com/b4s4r/sohbetgpt.git) Built with Laravel and powered by OpenAI API, this project brings a ChatGPT-like AI to life—because who doesn’t love a chatbot that’s as smart as it is fun?</br><br>📫 Let’s Connect [LinkedIn](https://www.linkedin.com/in/mehmet-ba%C5%9Far-019948258/)</br><br><br>
 
 
 # 💻 Tech Stack:
